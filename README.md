@@ -1243,6 +1243,7 @@ Update Time, five active automations, webhooks.
 
   * [eu.org](https://nic.eu.org) — Free eu.org domain. The request is usually approved in 14 days.
   * [pp.ua](https://nic.ua/) — Free pp.ua subdomains.
+  * [Obl.ong](https://obl.ong) - Free, quality subdomains for all, backed by our nonprofit. Get yourname.obl.ong and become a voting member in our organization today! All requests are reviewed by a human in order to preserve the reputation of the domain.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
